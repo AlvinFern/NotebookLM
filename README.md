@@ -5,11 +5,16 @@ This repository contains the results and insights generated using Google's Noteb
 
 Contents:
 
-Summaries of academic content
-Auto-generated study questions
-Contextual explanations of key terms
-Organized timelines for historical topics
-Linked concepts across different subjects
+- Summaries of academic content
+
+- Auto-generated study questions
+
+- Contextual explanations of key terms
+
+- Organized timelines for historical topics
+
+-Linked concepts across different subjects
+
 This repository serves as a resource for exploring NotebookLM's potential in educational settings, demonstrating how AI can support students' learning and comprehension.
 
 
