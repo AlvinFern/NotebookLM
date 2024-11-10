@@ -15,4 +15,8 @@ Contents:
 
 This repository serves as a resource for exploring NotebookLM's potential in educational settings, demonstrating how AI can support students' learning and comprehension.
 
+NotebookLM Link: https://notebooklm.google.com/notebook/3907d272-461a-438a-aa94-bf3562f72876?_gl=1*1xg57nv*_ga*NDgwODkzMjE2LjE3MzA2Nzk5MjE.*_ga_W0LDH41ZCB*MTczMTIwNTQxOC41LjAuMTczMTIwNTc0Ni42MC4wLjA.
+
+
+
 
